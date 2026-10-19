@@ -1,0 +1,92 @@
+[
+  {
+    "file": "mono.SymMOD",
+    "channels": 4,
+    "patterns": 2,
+    "rows": 16,
+    "instruments": 4,
+    "packed": false,
+    "feature": "mono"
+  },
+  {
+    "file": "packed.SymMOD",
+    "channels": 4,
+    "patterns": 2,
+    "rows": 16,
+    "instruments": 4,
+    "packed": true,
+    "feature": "packed"
+  },
+  {
+    "file": "sixteen.SymMOD",
+    "channels": 16,
+    "patterns": 2,
+    "rows": 16,
+    "instruments": 4,
+    "packed": false,
+    "feature": "sixteen"
+  },
+  {
+    "file": "stereo.SymMOD",
+    "channels": 4,
+    "patterns": 2,
+    "rows": 16,
+    "instruments": 4,
+    "packed": false,
+    "feature": "stereo"
+  },
+  {
+    "file": "virtual.SymMOD",
+    "channels": 4,
+    "patterns": 2,
+    "rows": 16,
+    "instruments": 4,
+    "packed": false,
+    "feature": "virtual"
+  },
+  {
+    "file": "sustain.SymMOD",
+    "channels": 4,
+    "patterns": 2,
+    "rows": 16,
+    "instruments": 4,
+    "packed": false,
+    "feature": "sustain"
+  },
+  {
+    "file": "dsp.SymMOD",
+    "channels": 4,
+    "patterns": 2,
+    "rows": 16,
+    "instruments": 4,
+    "packed": false,
+    "feature": "dsp"
+  },
+  {
+    "file": "sequences.SymMOD",
+    "channels": 4,
+    "patterns": 2,
+    "rows": 16,
+    "instruments": 4,
+    "packed": true,
+    "feature": "sequences"
+  },
+  {
+    "file": "repeat.SymMOD",
+    "channels": 4,
+    "patterns": 2,
+    "rows": 16,
+    "instruments": 4,
+    "packed": true,
+    "feature": "repeat"
+  },
+  {
+    "file": "cross-pattern.SymMOD",
+    "channels": 4,
+    "patterns": 2,
+    "rows": 16,
+    "instruments": 4,
+    "packed": false,
+    "feature": "cross-pattern"
+  }
+]
