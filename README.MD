@@ -36,6 +36,10 @@ L’application s’ouvre sur **Neon tides**, une démonstration originale dont 
 
 Le piano-roll et la prise de durée MIDI concernent SymMOD. Le guide précise les différences avec l’édition MOD.
 
+## Télécharger l’application
+
+L’[archive macOS Apple Silicon 0.12.0](releases/v0.12.0/Atelier-Tracker-0.12.0-macOS-arm64.zip?raw=true) contient l’application compilée existante, prête à décompresser, sans outils de développement requis. Voir les [instructions d’installation et de vérification](releases/v0.12.0/README.md). Cette version porte une signature locale ad hoc et n’est pas notarisée par Apple.
+
 ## Construire l’application
 
 Prérequis : un Mac Apple Silicon, macOS 14 ou ultérieur et une installation Xcode fournissant Swift et les outils C/C++. Le manifeste SwiftPM utilise `swift-tools-version: 5.9`. Python 3 est nécessaire aux outils d’audit complémentaires.
