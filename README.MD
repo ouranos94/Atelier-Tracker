@@ -38,7 +38,7 @@ Le piano-roll et la prise de durée MIDI concernent SymMOD. Le guide précise le
 
 ## Télécharger l’application
 
-L’[archive macOS Apple Silicon 0.12.0](releases/v0.12.0/Atelier-Tracker-0.12.0-macOS-arm64.zip?raw=true) contient l’application compilée existante, prête à décompresser, sans outils de développement requis. Voir les [instructions d’installation et de vérification](releases/v0.12.0/README.md). Cette version porte une signature locale ad hoc et n’est pas notarisée par Apple.
+Télécharger le [DMG macOS Apple Silicon 0.12.0](https://github.com/ouranos94/Atelier-Tracker/releases/download/v0.12.0/Atelier-Tracker-0.12.0-macOS-arm64.dmg) depuis [GitHub Releases](https://github.com/ouranos94/Atelier-Tracker/releases/tag/v0.12.0), l’ouvrir puis glisser l’application dans Applications. Aucun outil de développement n’est requis. Voir les [instructions d’installation et de vérification](releases/v0.12.0/README.md). Cette version porte une signature locale ad hoc et n’est pas notarisée par Apple.
 
 ## Construire l’application
 
